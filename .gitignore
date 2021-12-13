@@ -56,3 +56,4 @@ __pycache__
 .lia.cache
 plugin/compat.ml
 src/ExtractionQCCompat.v
+src/SplitMix.v
