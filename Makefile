@@ -63,7 +63,7 @@ tests:
 	coqc examples/DependentTest.v
 
 COMPATFILES:=plugin/depDriver.ml plugin/driver.mlg plugin/genericLib.ml plugin/quickChick.mlg plugin/tactic_quickchick.mlg plugin/weightmap.mlg \
-  src/SplitMix.v src/ExtractionQC.v
+  src/SplitMix.v src/Random.v src/ExtractionQC.v
 
 compat: $(COMPATFILES)
 

@@ -57,3 +57,4 @@ __pycache__
 plugin/compat.ml
 src/ExtractionQCCompat.v
 src/SplitMix.v
+src/Random.v
